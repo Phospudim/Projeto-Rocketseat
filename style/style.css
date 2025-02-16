@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Alice", serif;
+  list-style-position: inside;
+}
+html {
+  text-align: center;
+  background: #573824 center / cover no-repeat url(../image/bg-image.png);
+}
+
+main {
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 40px;
+  text-align: center;
+  background-color: #f0e8c2;
+  max-width: 600px;
+  width: 90%;
+}
+main img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+main h1 {
+  margin: 10px 0px 10px 0px;
+  color: #291b1a;
+  text-align: justify;
+  line-height: 140%;
+}
+h3 {
+  color: #291b1a;
+  text-align: left;
+  line-height: 150%;
+}
+p {
+  line-height: 150%;
+  font-size: 16px;
+  text-align: left;
+  color: #573a37;
+}
+#bolinho {
+  margin: 10px 0px 10px 0px;
+}
+#tempo-de-preparo {
+  margin: 10px 0px 10px 0px;
+}
+#modo-de-preparo {
+  margin: 10px 0px 10px 0px;
+}
+#ingredientes {
+  text-align: left;
+  line-height: 150%;
+}
+li {
+  color: #573a37;
+  margin-left: 10px;
+}
+footer {
+  margin: 20px;
+}
